@@ -2,7 +2,7 @@
 //  NSString+NSString_SHA1.m
 //  tours
 //
-//  Created by Andrew Emmons on 3/28/12.
+//  Created by atreat on 3/28/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
